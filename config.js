@@ -13,4 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+ mess: 'Mai biết mà hyhy 🥰. Yêu bạn Nhê nhiều nhiều 😘😘',
+    messDesc: 'Giờ là 11g đim haha, tui đã mò cái này 2 tiếng chỉ để làm cái web này cho con hêu kia. iuiu chị nhìu nhó',
+    btnAccept: '27.12.2020',
 }
